@@ -39,7 +39,14 @@ Atualizado em 22/09/2026.
 
 ## Próxima ação
 
-Apresentar a prévia local e coletar correções factuais e autorização de materiais.
+Apresentar a prévia pública em <https://luqbruno.github.io/fluez-eventos/> e coletar correções factuais e autorização de materiais.
+
+## Publicação
+
+- repositório: <https://github.com/LuqBruno/fluez-eventos>;
+- GitHub Pages: <https://luqbruno.github.io/fluez-eventos/>;
+- publicação autorizada pelo usuário em 22/09/2026;
+- imagens, CSS e JavaScript conferidos diretamente na URL pública após o deploy.
 
 ## Verificação técnica de 22/09/2026 — rodada final
 

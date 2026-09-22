@@ -23,6 +23,8 @@ npm run dev
 
 Acesse `http://localhost:3010`.
 
+Prévia pública: <https://luqbruno.github.io/fluez-eventos/>
+
 ## Verificações
 
 ```powershell
@@ -34,4 +36,4 @@ O build estático é gerado em `dist/`.
 
 ## Situação de uso
 
-Esta é uma demonstração. Nenhum material deve ser publicado comercialmente antes da confirmação dos dados, autorização das imagens e aprovação da Fluez.
+Esta é uma demonstração pública para apresentação comercial. Nenhum material deve ser considerado versão institucional definitiva antes da confirmação dos dados, autorização das imagens e aprovação da Fluez.
